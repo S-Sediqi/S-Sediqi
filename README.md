@@ -24,5 +24,4 @@
 
 ---
 ### Profile visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=S-Sediqi.S-Sediqi)
 ![visitors](https://komarev.com/ghpvc/?username=S-Sediqi&color=blue)
